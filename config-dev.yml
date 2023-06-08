@@ -4,5 +4,8 @@ server:
 spring:
   application:
     name: config-client1111
+
+config:
+  info: main-devcesssss
   
 
