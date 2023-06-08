@@ -1,4 +1,8 @@
 server:
-  port: 9001  main--dev
+  port: 9001
+ 
+spring:
+  application:
+    name: config-client1111
   
 
